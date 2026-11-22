@@ -1,0 +1,11 @@
+age,workclass,education,education_num,marital_status,occupation,relationship,race,sex,capital_gain,capital_loss,hours_per_week,native_country,actual_income,predicted_income,error_type
+28,Local-gov,Assoc-acdm,12,Married-civ-spouse,Protective-serv,Husband,White,Male,0,0,40,United-States,>50K,<=50K,False negative
+36,Federal-gov,Bachelors,13,Married-civ-spouse,Adm-clerical,Husband,White,Male,0,0,40,United-States,<=50K,>50K,False positive
+48,Private,HS-grad,9,Married-civ-spouse,Machine-op-inspct,Husband,White,Male,3103,0,48,United-States,>50K,<=50K,False negative
+28,Private,Assoc-voc,11,Married-civ-spouse,Prof-specialty,Wife,White,Female,0,0,36,United-States,>50K,<=50K,False negative
+54,Private,Some-college,10,Married-civ-spouse,Transport-moving,Husband,White,Male,3908,0,50,United-States,<=50K,>50K,False positive
+46,Private,Assoc-voc,11,Married-civ-spouse,Tech-support,Husband,White,Male,0,0,40,United-States,<=50K,>50K,False positive
+55,Private,HS-grad,9,Married-civ-spouse,Sales,Husband,White,Male,0,0,56,United-States,>50K,<=50K,False negative
+59,Private,HS-grad,9,Married-civ-spouse,Transport-moving,Husband,White,Male,0,0,40,United-States,>50K,<=50K,False negative
+29,Private,Assoc-voc,11,Married-civ-spouse,Exec-managerial,Husband,White,Male,0,0,40,United-States,>50K,<=50K,False negative
+43,Private,Bachelors,13,Divorced,Sales,Unmarried,White,Female,0,0,40,United-States,>50K,<=50K,False negative

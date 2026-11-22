@@ -1,0 +1,7 @@
+Category,Risk scenario,Likelihood (1-5),Impact (1-5),Mitigation,Initial risk score,Risk level
+Privacy,Sensitive socioeconomic information may be exposed or accessed without authorization.,3,5,"Restrict access, secure storage, minimize data, define retention and deletion.",15,High
+Privacy,Data may be reused for a purpose applicants or individuals did not expect.,3,4,"Purpose limitation, transparency and governance.",12,High
+Bias,Prediction rates or error rates may differ across sex groups.,4,4,"Measure group outcomes, investigate causes and monitor regularly.",16,High
+Bias,Prediction rates or error rates may differ across race groups.,4,5,"Fairness audits, representative evaluation and human review.",20,Critical
+Misuse,An organization may use income predictions to unfairly exclude people from opportunities.,3,5,Prohibit solely automated high-impact decisions and require review.,15,High
+Misuse,Users may treat an uncertain prediction as a verified fact about an individual.,4,4,"Communicate limitations, uncertainty and intended use.",16,High
